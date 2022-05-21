@@ -1,0 +1,5 @@
+
+O Pacote herencaEpolimorfismo apresento exemplos de erança e polimorfismo.
+    Neste caso a class Bicicleta extente Veiculo, isto faz com que Bicicleta herde seus atributos e metodos, isto é a Heranca.
+    O polimorfismo permite que seja rescrito o metodo utilizado em Veiculo. Assim utilizando o @Override será possivel chamar metodos com o mesmo nome,
+    porem com açoes diferentes. conforme exemplo, o compilador entenderá para que metodo enviar em tempo de exceução.
